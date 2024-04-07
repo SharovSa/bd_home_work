@@ -1,0 +1,21 @@
+club_name;championship_pos;played;pts;wons;looses;draws
+"""Real Madrid""";1;29;72;22;1;6
+"""Barcelona""";2;30;67;20;3;7
+"""Girona""";3;29;62;19;5;5
+"""Athletic Bilbao""";4;29;56;16;5;8
+"""Atletico Madrid""";5;29;55;17;8;4
+"""Real Sociedad""";6;29;46;12;7;10
+"""Real Betis""";7;29;42;10;7;12
+"""Valencia""";8;29;41;11;10;8
+"""Osasuna""";9;30;39;11;13;6
+"""Villarreal""";10;29;38;10;11;8
+"""Getafe""";11;30;38;9;10;11
+"""Las Palmas""";12;30;37;10;13;7
+"""Alaves""";13;29;32;8;13;8
+"""Sevilla""";14;30;31;7;13;10
+"""Real Mallorca""";15;30;31;6;11;13
+"""Rayo Vallecano""";16;29;29;6;12;11
+"""Celta Vigo""";17;29;27;6;14;9
+"""Cadiz""";18;30;25;4;13;13
+"""Granada""";19;29;14;2;19;8
+"""Almeria""";20;30;13;1;19;10

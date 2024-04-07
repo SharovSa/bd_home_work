@@ -1,0 +1,41 @@
+player_name;club_name;age;goals;assists;salary;transfer_cost;club_status;played;yellow_cards;red_cards;id
+"""Bukayo Saka""";"""Arsenal""";22;13;8;828434;159964025;"""M,D""";27;3;0;1
+"""Rodri""";"""Manchester City""";27;6;5;820964;70184989;"""M""";25;8;1;2
+"""Son Heung-Min""";"""Tottenham Hotspur""";31;15;8;811972;121740538;"""FW,M""";26;1;0;3
+"""Mohamed Salah""";"""Liverpool""";31;15;9;791684;28463022;"""FW,M""";;2;0;4
+"""Phil Foden""";"""Manchester City""";23;11;7;258106;17336808;"""FW,M""";28;1;0;5
+"""Declan Rice""";"""Arsenal""";25;6;5;693463;128773186;"""M,D""";28;3;0;6
+"""Erling Haaland""";"""Manchester City""";23;18;5;853238;119947105;"""FW""";23;1;0;7
+"""James Maddison""";"""Tottenham Hotspur""";27;4;7;990630;146482153;"""M""";19;3;0;8
+"""Martin Odegaard""";"""Arsenal""";25;6;6;844777;174558634;"""M""";25;2;0;9
+"""Pascal Gross""";"""Brighton""";32;4;10;457082;57775840;"""FW,M,D""";26;5;0;10
+"""Victor Boniface""";"""Bayer Leverkusen""";23;10;7;731242;18388511;"""FW""";16;2;0;11
+"""Harry Kane""";"""Bayern Munich""";30;31;7;243973;140913970;"""FW""";27;2;0;12
+"""Serhou Guirassy""";"""Stuttgart""";28;22;1;275158;86566026;"""FW""";20;0;0;13
+"""Leroy Sane""";"""Bayern Munich""";28;8;11;178043;99769504;"""FW,M""";26;4;0;14
+"""Jamal Musiala""";"""Bayern Munich""";21;10;6;825270;177686357;"""M""";22;2;0;15
+"""Alex Grimaldo""";"""Bayer Leverkusen""";28;9;11;542140;178060406;"""M,D""";27;1;0;16
+"""Xavi Simons""";"""RB Leipzig""";20;7;9;106352;145524164;"""FW,M""";26;7;0;17
+"""Florian Wirtz""";"""Bayer Leverkusen""";20;7;10;796517;90287111;"""FW,M""";27;3;0;18
+"""Deniz Undav""";"""Stuttgart""";27;14;6;370759;160906103;"""FW,M""";22;3;0;19
+"""Exequiel Palacios""";"""Bayer Leverkusen""";25;3;4;624167;69682006;"""M""";20;5;0;20
+"""Jude Bellingham""";"""Real Madrid""";20;16;3;161865;166032157;"""M""";22;5;1;21
+"""Vinicius Junior""";"""Real Madrid""";23;12;4;973266;56154859;"""FW,M""";20;5;0;22
+"""Isco""";"""Real Betis""";31;6;3;870272;43501679;"""FW,M""";23;8;0;23
+"""Antoine Griezmann""";"""Atletico Madrid""";33;11;6;876604;34873768;"""FW,M""";25;3;0;24
+"""Inaki Williams""";"""Athletic Bilbao""";29;9;3;204660;158969901;"""FW,M""";26;3;0;25
+"""Takefusa Kubo""";"""Real Sociedad""";22;7;3;942808;189621610;"""FW,M""";22;2;0;26
+"""Savio""";"""Girona""";19;8;7;133002;136069208;"""M""";29;5;0;27
+"""Yangel Herrera""";"""Girona""";26;4;0;762628;15920425;"""M""";20;5;0;28
+"""Gerard Moreno""";"""Villarreal""";31;10;3;307243;110200663;"""FW,M""";26;0;0;29
+"""Federico Valverde""";"""Real Madrid""";25;1;7;931567;188327586;"""M""";29;2;0;30
+"""Benjamin Garre""";"""Krylya Sovetov";23;8;3;331264;150049323;"""M""";15;3;0;31
+"""Quinsi Promes""";"""Spartak Moscow""";32;6;6;442668;178893139;"""FW,M""";17;1;0;32
+"""Bitello""";"""Dinamo Moscow""";24;5;1;396815;117144865;"""M""";14;0;0;33
+"""Claudinho""";"""Zenit""";27;3;5;734464;48991597;"""FW,M""";21;1;0;34
+"""Mateo Cassierra""";"""Zenit""";26;15;1;602414;155593248;"""FW""";19;2;0;35
+"""Maksim Osipenko""";"""Rostov""";29;6;0;158051;195855909;"""D""";15;0;0;36
+"""Wendel""";"""Zenit""";26;4;6;891749;40368517;"""M""";19;3;0;37
+"""Douglas Santos""";"""Zenit""";30;2;3;971620;135270384;"""M,D""";21;3;0;38
+"""Konstantin Tyukavin""";"""Dinamo Moscow""";21;9;7;200961;158962956;"""FW""";21;0;0;39
+"""Matias Perez""";"""Orenburg""";25;5;1;870369;120879155;"""M,D""";19;9;0;40

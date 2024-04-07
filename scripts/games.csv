@@ -1,0 +1,114 @@
+host;guest;hosts_goals;guests_goals;winer;mvp;game_date
+Bayern Munich;FSV Mainz;8;1;Bayern Munich;a;3/9/2024
+FC Augsburg;Heidenheim;1;0;FC Augsburg;a;3/9/2024
+Monchengladbach;FC Koln;3;3;;a;3/9/2024
+RB Leipzig;Darmstadt;2;0;RB Leipzig;a;3/9/2024
+Werder Bremen;Dortmund;1;2;Dortmund;a;3/9/2024
+Bochum;Freiburg;1;2;Freiburg;a;3/10/2024
+E. Frankfurt;Hoffenheim;3;1;E. Frankfurt;a;3/10/2024
+Bayer Leverkusen;Wolfsburg;2;0;Bayer Leverkusen;a;3/10/2024
+FC Koln;RB Leipzig;1;5;RB Leipzig;a;3/16/2024
+Darmstadt;Bayern Munich;2;5;Bayern Munich;a;3/16/2024
+FSV Mainz;Bochum;2;0;FSV Mainz;a;3/16/2024
+Heidenheim;Monchengladbach;1;1;;a;3/16/2024
+Union Berlin;Werder Bremen;2;1;Union Berlin;a;3/16/2024
+Wolfsburg;FC Augsburg;1;3;FC Augsburg;a;3/16/2024
+Hoffenheim;Stuttgart;0;3;Stuttgart;a;3/16/2024
+Freiburg;Bayer Leverkusen;2;3;Bayer Leverkusen;a;3/17/2024
+Dortmund;E. Frankfurt;3;1;Dortmund;a;3/17/2024
+E. Frankfurt;Union Berlin;0;0;;a;3/30/2024
+Bayer Leverkusen;Hoffenheim;2;1;Bayer Leverkusen;a;3/30/2024
+Monchengladbach;Freiburg;0;3;Freiburg;a;3/30/2024
+RB Leipzig;FSV Mainz;0;0;;a;3/30/2024
+Werder Bremen;Wolfsburg;0;2;Wolfsburg;a;3/30/2024
+Bayern Munich;Dortmund;0;2;Dortmund;a;3/30/2024
+FC Augsburg;FC Koln;1;1;;a;3/31/2024
+Stuttgart;Heidenheim;3;3;;a;3/31/2024
+Bochum;Darmstadt;2;2;;a;3/31/2024
+Manchester United;Everton;2;0;Manchester United;a;3/9/2024
+Bournemouth;Sheffield United;2;2;;a;3/9/2024
+Crystal Palace;Luton Town;1;1;;a;3/9/2024
+Wolverhampton;Fulham;2;1;Wolverhampton;a;3/9/2024
+Arsenal;Brentford;2;1;Arsenal;a;3/9/2024
+Aston Villa;Tottenham Hotspur;0;4;Tottenham Hotspur;a;3/10/2024
+Brighton;Nottm Forest;1;0;Brighton;a;3/10/2024
+West Ham United;Burnley;2;2;;a;3/10/2024
+Liverpool;Manchester City;1;1;;a;3/10/2024
+Chelsea;Newcastle United;3;2;Chelsea;a;3/12/2024
+Bournemouth;Luton Town;4;3;Bournemouth;a;3/14/2024
+Burnley;Brentford;2;1;Burnley;a;3/16/2024
+Luton Town;Nottm Forest;1;1;;a;3/16/2024
+Fulham;Tottenham Hotspur;3;0;Fulham;a;3/16/2024
+West Ham United;Aston Villa;1;1;;a;3/17/2024
+Newcastle United;West Ham United;4;3;Newcastle United;a;3/30/2024
+Bournemouth;Everton;2;1;Bournemouth;a;3/30/2024
+Chelsea;Burnley;2;2;;a;3/30/2024
+Nottm Forest;Crystal Palace;1;1;;a;3/30/2024
+Sheffield United;Fulham;3;3;;a;3/30/2024
+Tottenham Hotspur;Luton Town;2;1;Tottenham Hotspur;a;3/30/2024
+Aston Villa;Wolverhampton;2;0;Aston Villa;a;3/30/2024
+Brentford;Manchester United;1;1;;a;3/31/2024
+Liverpool;Brighton;2;1;Liverpool;a;3/31/2024
+Manchester City;Arsenal;0;0;;a;3/31/2024
+Alaves;Rayo Vallecano;1;0;Alaves;a;3/10/2024
+Las Palmas;Athletic Bilbao;0;2;Athletic Bilbao;a;3/10/2024
+Real Madrid;Celta Vigo;4;0;Real Madrid;a;3/10/2024
+Real Betis;Villarreal;2;3;Villarreal;a;3/11/2024
+Almeria;Sevilla FC;2;2;;a;3/12/2024
+Real Sociedad;Cadiz;2;0;Real Sociedad;a;3/16/2024
+Mallorca;Granada;1;0;Mallorca;a;3/16/2024
+Osasuna;Real Madrid;2;4;Real Madrid;a;3/16/2024
+Getafe;Girona;1;0;Getafe;a;3/16/2024
+Athletic Bilbao;Alaves;2;0;Athletic Bilbao;a;3/17/2024
+Sevilla FC;Celta Vigo;1;2;Celta Vigo;a;3/17/2024
+Las Palmas;Almeria;0;1;Almeria;a;3/17/2024
+Villarreal;Valencia;1;0;Villarreal;a;3/17/2024
+Rayo Vallecano;Real Betis;2;0;Rayo Vallecano;a;3/17/2024
+Atletico Madrid;FC Barcelona;0;3;FC Barcelona;a;3/18/2024
+Cadiz;Granada;1;0;Cadiz;a;3/30/2024
+Getafe;Sevilla FC;0;1;Sevilla FC;a;3/30/2024
+Almeria;Osasuna;0;3;Osasuna;a;3/30/2024
+Valencia;Mallorca;0;0;;a;3/30/2024
+FC Barcelona;Las Palmas;1;0;FC Barcelona;a;3/31/2024
+Celta Vigo;Rayo Vallecano;0;0;;a;3/31/2024
+Girona;Real Betis;3;2;Girona;a;3/31/2024
+Alaves;Real Sociedad;0;1;Real Sociedad;a;3/31/2024
+Real Madrid;Athletic Bilbao;2;0;Real Madrid;a;4/1/2024
+Lokomotiv M.;Ural;2;0;Lokomotiv M.;a;12/8/2024
+Spartak Moscow;Krylya Sovetov;3;0;Spartak Moscow;a;12/9/2024
+Akhmat Grozny;Rostov;0;0;;a;12/9/2024
+Zenit;Nizhny Novgorod;1;0;Zenit;a;12/9/2024
+Fakel Voronezh;Dinamo Moscow;1;1;;a;12/10/2024
+PFC Sochi;Orenburg;1;1;;a;12/10/2024
+Baltika;Rubin Kazan;0;1;Rubin Kazan;a;12/10/2024
+FC Krasnodar;CSKA Moscow;1;0;FC Krasnodar;a;12/10/2024
+Rostov;Krylya Sovetov;2;0;Rostov;a;3/1/2024
+CSKA Moscow;Orenburg;1;1;;a;3/2/2024
+FC Krasnodar;Rubin Kazan;1;1;;a;3/2/2024
+Akhmat Grozny;Ural;1;0;Akhmat Grozny;a;3/2/2024
+Zenit;Spartak Moscow;0;0;;a;3/2/2024
+Nizhny Novgorod;Fakel Voronezh;1;1;;a;3/3/2024
+Dinamo Moscow;Lokomotiv M.;2;1;Dinamo Moscow;a;3/3/2024
+Baltika;PFC Sochi;0;0;;a;3/3/2024
+Krylya Sovetov;CSKA Moscow;0;2;CSKA Moscow;a;3/8/2024
+Rostov;FC Krasnodar;2;1;Rostov;a;3/8/2024
+Ural;Zenit;1;4;Zenit;a;3/9/2024
+Rubin Kazan;Nizhny Novgorod;0;1;Nizhny Novgorod;a;3/9/2024
+Dinamo Moscow;Akhmat Grozny;2;0;Dinamo Moscow;a;3/9/2024
+Orenburg;Baltika;1;0;Orenburg;a;3/10/2024
+Lokomotiv M.;PFC Sochi;2;2;;a;3/10/2024
+Spartak Moscow;Fakel Voronezh;0;2;Fakel Voronezh;a;3/10/2024
+Dinamo Moscow;Rostov;1;4;Rostov;a;3/29/2024
+Krylya Sovetov;Zenit;1;1;;a;3/30/2024
+PFC Sochi;CSKA Moscow;2;2;;a;3/30/2024
+Baltika;Nizhny Novgorod;2;0;Baltika;a;3/30/2024
+Spartak Moscow;Ural;0;0;;a;3/30/2024
+Fakel Voronezh;Orenburg;0;0;;a;3/31/2024
+Rubin Kazan;Akhmat Grozny;2;1;Rubin Kazan;a;3/31/2024
+Lokomotiv M.;FC Krasnodar;1;1;;a;3/31/2024
+Ural;Krylya Sovetov;1;2;Krylya Sovetov;a;4/6/2024
+Nizhny Novgorod;FC Krasnodar;3;4;FC Krasnodar;a;4/6/2024
+Rostov;PFC Sochi;2;2;;a;4/6/2024
+CSKA Moscow;Fakel Voronezh;4;1;CSKA Moscow;a;4/7/2024
+Akhmat Grozny;Lokomotiv M.;0;2;Lokomotiv M.;a;4/7/2024
+Zenit;Baltika;1;0;Zenit;a;4/7/2024

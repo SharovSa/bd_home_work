@@ -1,0 +1,17 @@
+club_name;championship_pos;played;pts;wons;looses;draws
+"""Zenit""";1;21;41;12;4;5
+"""FC Krasnodar""";2;20;39;11;3;6
+"""Dinamo Moscow""";3;21;38;10;3;8
+"""CSKA Moscow""";4;21;33;8;4;9
+"""Lokomotiv M.""";5;21;32;9;7;5
+"""Krylya Sovetov""";6;20;32;8;4;8
+"""Spartak Moscow""";7;21;30;8;7;6
+"""Rubin Kazan""";8;21;30;8;7;6
+"""Rostov""";9;20;29;8;7;5
+"""Nizhny Novgorod""";10;21;28;8;9;4
+"""Fakel Voronezh""";11;21;26;6;7;8
+"""Orenburg""";12;20;20;5;10;5
+"""Akhmat Grozny""";13;21;20;5;11;5
+"""Ural""";14;21;20;4;9;8
+"""Baltika""";15;21;17;4;12;5
+"""PFC Sochi""";16;21;14;3;13;5
