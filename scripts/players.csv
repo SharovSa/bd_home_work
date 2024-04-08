@@ -2,7 +2,7 @@ player_name;club_name;age;goals;assists;salary;transfer_cost;club_status;played;
 """Bukayo Saka""";"""Arsenal""";22;13;8;828434;159964025;"""M,D""";27;3;0;1
 """Rodri""";"""Manchester City""";27;6;5;820964;70184989;"""M""";25;8;1;2
 """Son Heung-Min""";"""Tottenham Hotspur""";31;15;8;811972;121740538;"""FW,M""";26;1;0;3
-"""Mohamed Salah""";"""Liverpool""";31;15;9;791684;28463022;"""FW,M""";;2;0;4
+"""Mohamed Salah""";"""Liverpool""";31;15;9;791684;28463022;"""FW,M""";19;2;0;4
 """Phil Foden""";"""Manchester City""";23;11;7;258106;17336808;"""FW,M""";28;1;0;5
 """Declan Rice""";"""Arsenal""";25;6;5;693463;128773186;"""M,D""";28;3;0;6
 """Erling Haaland""";"""Manchester City""";23;18;5;853238;119947105;"""FW""";23;1;0;7

@@ -3,10 +3,10 @@ create table if not exists Games (
     guest varchar(30) not null,
     hosts_goals smallint not null,
     guests_goals smallint not null,
-    winer varchar(30) not null,
+    winer varchar(30),
     mvp varchar(50) not null,
     game_date date not null,
-    constraint PK_Games primary key (host, guest)
+    constraint PK_Games PRIMARY KEY(host, guest)
 );
 
 create table if not exists England (
@@ -17,7 +17,7 @@ create table if not exists England (
     wons smallint not null,
     looses smallint not null,
     draws smallint not null,
-    constraint FK_EnglandGames foreign key (club_name) references Games (host) on delete restrict on update restrict
+    constraint FK_EnglandGames foreign key (club_name, club_name) references Games(host, guest) on delete restrict on update restrict
 );
 
 create table if not exists Germany (
@@ -28,7 +28,7 @@ create table if not exists Germany (
     wons smallint not null,
     looses smallint not null,
     draws smallint not null,
-    constraint FK_GermanyGames foreign key (club_name) references Games (host) on delete restrict on update restrict
+    constraint FK_GermanyGames foreign key (club_name, club_name) references Games(host, guest) on delete restrict on update restrict
 );
 
 create table if not exists Russia (
@@ -39,7 +39,7 @@ create table if not exists Russia (
     wons smallint not null,
     looses smallint not null,
     draws smallint not null,
-    constraint FK_RussiaGames foreign key (club_name) references Games (host) on delete restrict on update restrict
+    constraint FK_RussiaGames foreign key (club_name, club_name) references Games(host, guest) on delete restrict on update restrict
 );
 
 create table if not exists Spain (
@@ -50,7 +50,7 @@ create table if not exists Spain (
     wons smallint not null,
     looses smallint not null,
     draws smallint not null,
-    constraint FK_SpainGames foreign key (club_name) references Games (host) on delete restrict on update restrict
+    constraint FK_SpainGames foreign key (club_name, club_name) references Games(host, guest) on delete restrict on update restrict
 );
 
 create table if not exists Players (
@@ -59,8 +59,8 @@ create table if not exists Players (
     age smallint not null,
     goals smallint not null,
     assists smallint not null,
-    salary decimal(10,2) not null,
-    transfer_cost decimal(10,2) not null,
+    salary decimal(15,2) not null,
+    transfer_cost decimal(15,2) not null,
     club_status varchar(20) not null,
     played  smallint not null,
     yellow_cards smallint not null,
@@ -69,6 +69,7 @@ create table if not exists Players (
     constraint FK_Players1 foreign key (club_name) references England (club_name) on delete cascade on update restrict,
     constraint FK_Players2 foreign key (club_name) references Germany (club_name) on delete cascade on update restrict,
     constraint FK_Players3 foreign key (club_name) references Russia (club_name) on delete cascade on update restrict,
-    constraint FK_Players4 foreign key (club_name) references Spain (club_name) on delete cascade on update restrict,
-    constraint FK_Players5 foreign key (player_name) references Games (mvp)
+    constraint FK_Players4 foreign key (club_name) references Spain (club_name) on delete cascade on update restrict
 );
+
+alter table Games add constraint FK_Games foreign key (mvp) references Players(player_name);
